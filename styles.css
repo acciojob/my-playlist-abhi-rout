@@ -1,12 +1,16 @@
 body{
      background-color: #cccccc;
 }
-h1{
+h2{
     text-align: center;
 }
 li{
     list-style-type:none;
-    text-decoration:none;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
 }
 .player-one{
   background-color: white;
@@ -16,6 +20,7 @@ li{
 .player-two{
     background-color: white;
     width: 30%;
+
     text-align: center;
     margin-left: 30%;
     border-radius: 10px;
