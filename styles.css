@@ -1,1 +1,22 @@
-/*  your css code here. If applicable */
+body{
+     background-color: #cccccc;
+}
+h1{
+    text-align: center;
+}
+li{
+    list-style-type:none;
+    text-decoration:none;
+}
+.player-one{
+  background-color: white;
+  border-radius: 10px;
+  
+}
+.player-two{
+    background-color: white;
+    width: 30%;
+    text-align: center;
+    margin-left: 30%;
+    border-radius: 10px;
+}
